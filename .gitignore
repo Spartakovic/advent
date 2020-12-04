@@ -1,0 +1,9 @@
+.idea/
+*.iml
+target/
+*.swp
+config.json
+hs_err_pid*.log
+.attach_pid*
+**/.venv/
+**/__pycache__/
